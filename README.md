@@ -18,5 +18,9 @@ janken.py (import random)
 ⇒じゃんけんプログラム  
   
 ## day005
+password_generator.py  
+⇒リストの文字列などからランダムに指定した数だけ取り出してパスワードを生成する。  
+  
+## day006
 
 
