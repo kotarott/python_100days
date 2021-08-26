@@ -1,6 +1,6 @@
 # python_100days
 Udemy練習用
-
+  
 ## day001
 band_name_generator.py  
 ⇒インプット情報からバンド名を生成する。  
@@ -14,5 +14,9 @@ treasure_island.py
 ⇒簡易ゲーム。選択肢を入力してゴールにたどり着く。  
   
 ## day004
+janken.py (import random)  
+⇒じゃんけんプログラム  
+  
+## day005
 
 
