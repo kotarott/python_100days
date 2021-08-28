@@ -22,5 +22,12 @@ password_generator.py
 ⇒リストの文字列などからランダムに指定した数だけ取り出してパスワードを生成する。  
   
 ## day006
-
+https://reeborg.ca/index_en.html (Maze)  
+⇒関数を使って目的地までたどり着く。  
+  
+## day007
+hangman.py  
+⇒答えとなる言葉を推測するゲーム。  
+  
+## day008
 
